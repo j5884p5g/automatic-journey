@@ -1,0 +1,26 @@
+{
+    "id": "8937989d-7281-4328-8d96-03716d649d03",
+    "name": "App",
+    "publisher": "Publisher",
+    "version": "1.0.0.0",
+    "brief": "",
+    "description": "",
+    "privacyStatement": "",
+    "EULA": "",
+    "help": "",
+    "url": "",
+    "logo": "",
+    "dependencies": [],
+    "screenshots": [],
+    "platform": "24.0.0.0",
+    "application": "24.0.0.0",
+    "idRanges": [
+        {
+            "from": 50100,
+            "to": 50149
+        }
+    ],
+    "contextSensitiveHelpUrl": "",
+    "showMyCode": true,
+    "runtime": "13.0"
+}
