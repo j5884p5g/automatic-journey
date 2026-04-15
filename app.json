@@ -1,0 +1,9 @@
+{
+  "id": "5efd1f05-0c2d-4d7a-9e6e-1d5f8c3c2f0a",
+  "name": "RootProject",
+  "publisher": "Default Publisher",
+  "version": "1.0.0.0",
+  "platform": "24.0.0.0",
+  "application": "24.0.0.0",
+  "runtime": "13.0"
+}
